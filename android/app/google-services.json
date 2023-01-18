@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745966745076",
+    "project_id": "pic-book-irfan",
+    "storage_bucket": "pic-book-irfan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745966745076:android:c73bf9aa79008c00c235a1",
+        "android_client_info": {
+          "package_name": "picbook.picbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745966745076-rt6albjpqtp47voe2fh1390ffp3h0a7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFDyn1rtEfFXlbHrIXb5E0IyX3GrXyTQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745966745076-rt6albjpqtp47voe2fh1390ffp3h0a7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
